@@ -27,6 +27,25 @@
                 </configuration>
             </plugin>
         </plugins>
-    </build>                   
+    </build>
+    <dependencies>
+        <dependency>
+            <groupId>org.json</groupId>
+            <artifactId>json</artifactId>
+            <version>20230227</version>
+        </dependency>
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>31.1-jre</version>
+            <type>jar</type>
+        </dependency>
+        <dependency>
+            <groupId>com.github.javafaker</groupId>
+            <artifactId>javafaker</artifactId>
+            <version>1.0.2</version>
+            <type>jar</type>
+        </dependency>
+    </dependencies>                   
     <name>PiServ</name>
 </project>
