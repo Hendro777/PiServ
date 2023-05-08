@@ -9,7 +9,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
-        <exec.mainClass>com.hendro777.piservv.PiServ</exec.mainClass>
+        <exec.mainClass>com.hendro777.piserv.PiServ</exec.mainClass>
     </properties>
     <name>PiServ</name>
 </project>
