@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 /Users/hendrik/Documents/Pi/PiServ/src/main/java/com/hendro777/piserv/PiServ.java
 /Users/hendrik/Documents/Pi/PiServ/src/main/java/com/hendro777/piserv/RequestHandler.java
+=======
+/home/pi/Dev/PiServ/src/main/java/com/hendro777/piserv/MyHttpHandler.java
+/home/pi/Dev/PiServ/src/main/java/com/hendro777/piserv/PiServ.java
+>>>>>>> 35faf99753e738e15ea6d5f17544a92991931058
